@@ -1,6 +1,6 @@
 ---
 title: "NASA Jet Propulsion Laboratory"
-excerpt: "Planar air-bearing platform used for CubeSat dynamics and control algorithm testing<br/><img src='/images/500x300.png'>"
+excerpt: "Planar air-bearing platform used for CubeSat dynamics and control algorithm testing<br/><img src='/images/marco.jpg'>"
 collection: portfolio
 ---
 

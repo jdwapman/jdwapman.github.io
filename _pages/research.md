@@ -17,4 +17,4 @@ The goal of the HITS is to assign websites with a hub score an an authority scor
 Past research projects include:
 * Design and characterization of a planar air-bearing platform used for CubeSat guidance & control tests at NASA JPL [(Link)](/portfolio/01-JPL)
 * Simulation of distributed detection algorithms applied to chemical plume detection using autonomous robotic swarms at the Lawrence Livermore National Laboratory [(Link)](/portfolio/02-llnl_swarm)
-* Design of a low-cost data capture system for fluorescence lifetime spectroscopy with [Professor Diego Yankelevich](https://faculty.engineering.ucdavis.edu/yankelevich/) and [Professor Laura Marcu](https://marculab.bme.ucdavis.edu/) at UC Davis [(Link)]()
+* Design of a low-cost data capture system for fluorescence lifetime spectroscopy with [Professor Diego Yankelevich](https://faculty.engineering.ucdavis.edu/yankelevich/) and [Professor Laura Marcu](https://marculab.bme.ucdavis.edu/) at UC Davis [(Link)](/portfolio/05-yankelevich)
