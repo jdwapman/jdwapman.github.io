@@ -60,7 +60,6 @@ January 2017 - March 2018
 Undergraduate Research Assistant  
 September 2016 - June 2017  
 * Designed circuitry and programmed an Arduino for a digitally-controlled syringe with a team of three students. Used as a low-cost alternative for microfluidic educational and research projects.
-* Achieved performance comparable to a \$2000 industrial digitally-controlled syringe for less than \$150.
 
 
 ## Varian Medical Systems
@@ -99,43 +98,13 @@ December 2016
 # Skills
 ---
 ## Software
-* Languages
-  * Bash
-  * C
-  * C++
-  * CUDA
-  * MATLAB
-  * Python
-  * Verilog
-* Frameworks
-  * OpenCV
-  * NumPy
-  * SciPy
-  * Gunrock
-* Tools
-  * Git
-  * Jekyll
-  * Linux
-  * Mac OS
-  * Windows
-
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Languages
+Bash, C, C++, CUDA, MATLAB, Python, Verilog
+### Frameworks
+OpenCV, NumPy, SciPy, Gunrock
+### Tools
+Git, Jekyll, Linux, Mac OS, Windows
+## Hardware
+### Programs
+Eagle
   
