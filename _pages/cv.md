@@ -22,6 +22,13 @@ PDF available [here](http://jdwapman.github.io/jdwapman/assets/resume.pdf)
 * B.S. Electrical Engineering
   * September 2014 - March 2018
   * GPA: 3.96/4.00
+  * Awards:
+    * Outstanding Senior in Electrical Engineering (1 per year)
+    * Dean's List: 10 Quarters
+    * [Robert Murdoch Memorial Scholarship](https://financialaid.ucdavis.edu/scholarships/campus/awards/eng)
+    * [Fred Fuchslin Memorial Scholarship](https://financialaid.ucdavis.edu/scholarships/campus/awards/eng)
+    * Best Undergraduate Poster - UC Davis ECE Industrial Affiliates Conference 2018
+
 
 # Experience
 ---
@@ -92,7 +99,18 @@ December 2016
 [poster](http://jdwapman.github.io/jdwapman/assets/posters/casis2018.pdf)
 * Presentation “Multichannel solid state photodetection system for low-cost fluorescence lifetime spectroscopy (Conference Presentation),” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XVI, 2018. (contributed slides)
 * "Rocket Imaging Payload: Identification of Ground-Based Targets using Contour Detection and Neural Networks with Bluetooth-Enabled Inertial Measurement Unit", UC Davis Industrial Affiliates Conference, May 2018.  
-[poster](http://jdwapman.github.io/jdwapman/assets/posters/ia2018.pdf)
+[poster](http://jdwapman.github.io/jdwapman/assets/posters/ia2018.pdf)  
+Award: Best Undergraduate Poster
+
+# Projects
+
+## Adversarial Reinforcement Learning
+
+## Computer Vision
+
+## Heart-Rate Monitor
+
+## CubeSat Constellation Optimization
 
 
 # Skills
