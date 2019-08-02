@@ -10,7 +10,7 @@ author_profile: true
 
 I implemented the [Hyperlink-Induced Topic Search](https://en.wikipedia.org/wiki/HITS_algorithm) (HITS) web page ranking algorithm in [Gunrock](https://github.com/gunrock/gunrock/tree/master/gunrock/app/hits).    
 
-The goal of the HITS is to assign websites with a hub score an an authority score. Websites with high hub scores are sites that are useful as search engines (example: Google), while sites with high authority scores are websites that contain authoritative information (example: Wikipedia). More specifically, sites that point to other websites with high authority scores have a high hub score, and websites pointed to by other sites with high hub scores in turn have a high authority score.
+The goal of the HITS algorithm is to assign websites with a hub score an an authority score. Websites with high hub scores are sites that are useful as search engines (example: Google), while sites with high authority scores are websites that contain authoritative information (example: Wikipedia). More specifically, sites that point to other websites with high authority scores have a high hub score, and websites pointed to by other sites with high hub scores in turn have a high authority score.
 
 # Past Projects
 

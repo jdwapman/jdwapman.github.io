@@ -1,6 +1,6 @@
 ---
 title: "NASA Jet Propulsion Laboratory"
-excerpt: "Planar air-bearing platform used for CubeSat dynamics and control algorithm testing<br/><img src='/images/marco.jpg'>"
+excerpt: "Planar air-bearing platform used for CubeSat dynamics and control algorithm testing<br/><br/><img src='/images/marco.jpg'><br/><br/>Image: Mars as captured by the MarCO-B CubeSat during the InSight landing [(source)](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA22833)"
 collection: portfolio
 ---
 
