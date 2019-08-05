@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF available [here](/files/resume/resume.pdf)
+PDF available [here](/files/cv/jonathan_wapman_cv.pdf)
 
 # Education
 ---
