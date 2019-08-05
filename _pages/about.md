@@ -16,6 +16,6 @@ I am a contributor to [Gunrock](https://github.com/gunrock/gunrock), an open-sou
 
 You can contact me at jdwapman [at] ucdavis [dot] edu or by messaging me on LinkedIn.
 
-![Owens Group](images/owensgroup.png)
+![Owens Group](files/owensgroup/owensgroup.png)
 
 In my free time, I enjoy photography, hiking, and rock climbing.
