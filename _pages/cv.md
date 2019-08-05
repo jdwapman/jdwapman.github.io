@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF available [here](http://jdwapman.github.io/jdwapman/files/resume/resume.pdf)
+PDF available [here](/files/resume/resume.pdf)
 
 # Education
 ---
