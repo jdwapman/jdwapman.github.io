@@ -107,6 +107,24 @@ September 2018 - March 2019
 Award: Best Undergraduate Poster
 
 ---
+# Courses
+## Graduate
+* Embedded Computing Systems (EEC 284)
+* Linear Systems (EEC 250)
+* Nonlinear Systems (EEC 251)
+* Optimal Control (MAE 298)
+* Reinforcement Learning (EEC 289A)
+* VLSI Digital Signal Processing (EEC 281)
+
+## Undergraduate
+* Computer Architecture (EEC 170)
+* Digital Systems I/II (EEC 180 A/B)
+* Electromagnetics I/II (EEC 130 A/B)
+* Parallel Computer Architectures (EEC 171)
+* Probabilistic Analysis (EEC 161)
+* Signals & Systems (EEC 150A)
+
+---
 # Skills
 ## Programming Languages
 Bash, C, C++, CUDA, MATLAB, MIPS, Python, Verilog
