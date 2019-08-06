@@ -1,6 +1,6 @@
 ---
 title: "Data Capture for Fluorescence Lifetime Spectroscopy"
-excerpt: "Description<br/><img src='/files/yankelevich/setup_resized.jpg'>"
+excerpt: "Description<br/><img src='/files/yankelevich/setup.jpg' width='500'>"
 collection: portfolio
 ---
 

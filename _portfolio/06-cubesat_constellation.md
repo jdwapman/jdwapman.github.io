@@ -1,6 +1,6 @@
 ---
 title: "CubeSat Constellation Separation"
-excerpt: "Optimal Control Theory Course Project:<br/>Simulated CubeSat constellation separation using nonlinear programming to maximize constellation lifetime<br/><img src='/files/cubesat_constellation/NonlinearOptimization.png'><br/><br/>Image: Simulation of Satellite Constellation Separation using Nonlinear Programming"
+excerpt: "Optimal Control Theory Course Project:<br/>Simulated CubeSat constellation separation using nonlinear programming to maximize constellation lifetime<br/><img src='/files/cubesat_constellation/NonlinearOptimization.png' width='500'><br/><br/>Image: Simulation of Satellite Constellation Separation using Nonlinear Programming"
 collection: portfolio
 ---
 
