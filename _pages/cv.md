@@ -27,6 +27,7 @@ PDF available [here](/files/cv/jonathan_wapman_cv.pdf)
     * Dean's List: 10 Quarters
     * [Robert Murdoch Memorial Scholarship](https://financialaid.ucdavis.edu/scholarships/campus/awards/eng)
     * [Fred Fuchslin Memorial Scholarship](https://financialaid.ucdavis.edu/scholarships/campus/awards/eng)
+    * [Pedrozzi Scholarship](https://pedrozzifoundation.org/)
     * Best Undergraduate Poster - UC Davis ECE Industrial Affiliates Conference 2018
 
 ---
@@ -118,8 +119,13 @@ Award: Best Undergraduate Poster
 
 ## Undergraduate
 * Computer Architecture (EEC 170)
+* Control Systems (EEC 157A)
+* Design of Coffee (ECM 1)
+* Differential Equations (MAT 22B)
 * Digital Systems I/II (EEC 180 A/B)
+* Discrete Math (ECS 20)
 * Electromagnetics I/II (EEC 130 A/B)
+* Linear Algebra (MAT 22A)
 * Parallel Computer Architectures (EEC 171)
 * Probabilistic Analysis (EEC 161)
 * Signals & Systems (EEC 150A)
@@ -134,4 +140,3 @@ OpenCV, Numba, NumPy, SciPy, Gunrock
 Git, gdb/cuda-gdb, Jekyll, Linux, Mac OS, Windows
 ## Programs
 Eagle, LabView, Simulink
-  
