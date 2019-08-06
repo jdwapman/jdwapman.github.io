@@ -11,8 +11,8 @@ redirect_from:
 
 PDF available [here](/files/cv/jonathan_wapman_cv.pdf)
 
-# Education
 ---
+# Education
 ## University of California, Davis
 * M.S. Electical Engineering
   * September 2018 - Present
@@ -29,10 +29,8 @@ PDF available [here](/files/cv/jonathan_wapman_cv.pdf)
     * [Fred Fuchslin Memorial Scholarship](https://financialaid.ucdavis.edu/scholarships/campus/awards/eng)
     * Best Undergraduate Poster - UC Davis ECE Industrial Affiliates Conference 2018
 
-
-# Experience
 ---
-
+# Experience
 ## Owens Research Group
 Graduate Student Researcher  
 January 2019 - Present  
@@ -88,10 +86,16 @@ Undergraduate Research Assistant
 December 2016  
 * Created scale models of LA buildings using foam blocks for use in wind tunnel simulations.
 
-
-
-# Conferences
 ---
+# Teaching
+## Senior Capstone Design (UC Davis EEC 136 A/B)
+Teaching Assistant  
+September 2018 - March 2019  
+* Assisted students and project teams with circuit design/layout, embedded device programming, project management, and quarterly written reports and presentations.
+* Acted as a project advisor to 4 senior design teams with 3-4 students each.
+
+---
+# Conferences
 * "Gunrock GPU Graph Analytics", UC Davis Indistrial Affiliates Conference, May 2019.  
 [poster](/files/owensgroup/ia2019.pdf)
 * "Low-Cost Data Collection Systems for Fluorescence Lifetime Spectroscopy Imaging", UC Undergraduate Research Ambassador Showcase", February 2018.
@@ -102,9 +106,8 @@ December 2016
 [poster](/files/eclipse/ia2018.pdf)  
 Award: Best Undergraduate Poster
 
-
-# Skills
 ---
+# Skills
 ## Programming Languages
 Bash, C, C++, CUDA, MATLAB, MIPS, Python, Verilog
 ## Frameworks
