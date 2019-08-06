@@ -6,6 +6,11 @@ author_profile: true
 
 # DARPA Software-Define Hardware
 
+[DARPA Press Release](https://www.darpa.mil/news-events/2018-07-24a)  
+[Nvidia Press Release](https://blogs.nvidia.com/blog/2018/07/24/darpa-research-post-moores-law/)  
+
+More information coming soon.
+
 # Gunrock
 
 I implemented the [Hyperlink-Induced Topic Search](https://en.wikipedia.org/wiki/HITS_algorithm) (HITS) web page ranking algorithm in [Gunrock](https://github.com/gunrock/gunrock/tree/master/gunrock/app/hits).    
