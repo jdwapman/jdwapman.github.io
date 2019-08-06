@@ -8,7 +8,7 @@ This project was for a graduate-level course on optimal control theory. In this 
 
 Sin et. al. studied this separation method in [their 2017 paper](https://arxiv.org/abs/1710.00104) by approximating the complex nonlinear atmospheric dynamics as a linear process. My team was interested in evaluating how much accuracy the researchers lost with this approximation, and attempted to perform a nonlinear optimization in MATLAB.  
 
-For more detail, our project report is available [here](/files/cubesat_constellation/Linear_and_Nonlinear_Optimization_of CubeSat_Constellation_Lifetime_Using_Differential_Drag_Control.pdf)
+For more detail, our project report is available [here](/files/cubesat_constellation/Linear_and_Nonlinear_Optimization_of CubeSat_Constellation_Lifetime_Using_Differential_Drag_Control.pdf).
 
 The MATLAB simulation code for this project can be found [here](https://github.com/jdwapman/SmallSatSeparation).
 
