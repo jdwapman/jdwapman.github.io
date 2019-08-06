@@ -94,35 +94,23 @@ December 2016
 ---
 * "Gunrock GPU Graph Analytics", UC Davis Indistrial Affiliates Conference, May 2019.  
 [poster](/files/owensgroup/ia2019.pdf)
-* "UC Undergraduate Research Ambassador Showcase", February 2018.
-* “Chemical Plume Detection with Collaborative, Autonomous Sensor Networks,” in 2018 Signal and Image Sciences Workshop, 2018.  
+* "Low-Cost Data Collection Systems for Fluorescence Lifetime Spectroscopy Imaging", UC Undergraduate Research Ambassador Showcase", February 2018.
+* “Chemical Plume Detection with Collaborative, Autonomous Sensor Networks,” 2018 Signal and Image Sciences Workshop at the Lawrence Livermore National Laboratory, 2018.  
 [poster](/files/llnl_ced/LLNL_CASIS_POSTER.pdf)
 * Presentation “Multichannel solid state photodetection system for low-cost fluorescence lifetime spectroscopy (Conference Presentation),” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XVI, 2018. (contributed slides)
 * "Rocket Imaging Payload: Identification of Ground-Based Targets using Contour Detection and Neural Networks with Bluetooth-Enabled Inertial Measurement Unit", UC Davis Industrial Affiliates Conference, May 2018.  
 [poster](/files/eclipse/ia2018.pdf)  
 Award: Best Undergraduate Poster
 
-# Projects
-
-## Adversarial Reinforcement Learning
-
-## Computer Vision
-
-## Heart-Rate Monitor
-
-## CubeSat Constellation Optimization
-
 
 # Skills
 ---
-## Software
-### Languages
-Bash, C, C++, CUDA, MATLAB, Python, Verilog
-### Frameworks
-OpenCV, NumPy, SciPy, Gunrock
-### Tools
-Git, Jekyll, Linux, Mac OS, Windows
-## Hardware
-### Programs
-Eagle
+## Programming Languages
+Bash, C, C++, CUDA, MATLAB, MIPS, Python, Verilog
+## Frameworks
+OpenCV, Numba, NumPy, SciPy, Gunrock
+## Tools
+Git, gdb/cuda-gdb, Jekyll, Linux, Mac OS, Windows
+## Programs
+Eagle, LabView, Simulink
   
