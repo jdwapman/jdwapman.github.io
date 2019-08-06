@@ -1,6 +1,6 @@
 ---
 title: "LLNL National Ignitional Facility"
-excerpt: "Description<br/><img src='/files/llnl_nif/img7_resized.jpg'>"
+excerpt: "Description<br/><img src='/files/llnl_nif/img7.jpg', width='500'>"
 collection: portfolio
 ---
 
