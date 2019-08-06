@@ -57,7 +57,7 @@ June 2017 - September 2017
 
 
 ## Yankelevich & Marcu Laboratory
-Undergraduate Research Assistant
+Undergraduate Research Assistant  
 January 2017 - March 2018
 * Implemented low-cost, automated hardware and software systems to capture, analyze, and visualize fluorescence lifetime imaging data for guided surgery applications using C++ and Python on a Raspberry Pi computer.
 
