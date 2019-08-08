@@ -8,7 +8,13 @@ During Summer 2019 I worked as an intern in the Guidance & Control group at NASA
 
 CubeSats are small, relatively cheap satellites that have been successfully used for gathering climate data, imaging distance galaxies, and most recently for relaying telemetry data from the InSight Lander's landing on Mars using the [MarCO CubeSats](https://www.jpl.nasa.gov/cubesat/missions/marco.php).
 
+![MarCO](/files/jpl/marco_bench.jpg)  
+[Source](https://photojournal.jpl.nasa.gov/feature/marco)
+
 Since CubeSat mission budgets are typically small, the [Small Satellite Dynamics Testbed](https://scienceandtechnology.jpl.nasa.gov/small-satellite-dynamics-testbed-ssdt) at JPL has been leading an effort to create a suite of test platforms and procedures that can be used by multiple CubeSat missions, thus reducing the need for each individual mission to create and validate test equipment from scratch. One such platform is a planar air-bearing platform, used to simulate zero-gravity dynamics on a flat floor.  
+
+![SSDT](/files/jpl/ssdt.png)  
+[Source](https://scienceandtechnology.jpl.nasa.gov/small-satellite-dynamics-testbed-ssdt)
 
 The first iteration of this platform was successfully used to test the MarCO CubeSats before launch. However, there were several limitations to this platform. The first was that it had no onboard position-control functionality. Platform operators had to physically move the platform - limiting its accuracy, repeatability, and the types of tests it could be used for.  
 

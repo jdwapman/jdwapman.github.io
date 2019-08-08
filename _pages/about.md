@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at UC Davis studying Electrical and Computer Engineering  under [Professor John Owens](https://www.ece.ucdavis.edu/~jowens/research.html). My research interests include parallel algorithms and architectures used in Graphical Processing Units (GPUs), graph analytics, and machine learning. I also enjoy working with autonomous systems and robotics - both on land and in space.
+I am a Master's student at UC Davis studying Electrical and Computer Engineering  under [Professor John Owens](https://www.ece.ucdavis.edu/~jowens/research.html). My research interests include parallel algorithms and architectures used in Graphical Processing Units (GPUs), graph algorithms, and machine learning. I also enjoy working with autonomous systems and robotics - both on land and in space.
 
 My current research focuses on a streaming programming model for parallel graph algorithms and load-balancing strategies for a novel reconfigurable GPU architecture as part of DARPA's Software-Defined Hardware program. See press releases from [Nvidia](https://blogs.nvidia.com/blog/2018/07/24/darpa-research-post-moores-law/) and [DARPA](https://www.darpa.mil/news-events/2018-07-24a) for more information.
 
@@ -16,6 +16,6 @@ I am a contributor to [Gunrock](https://github.com/gunrock/gunrock), an open-sou
 
 You can contact me at jdwapman [at] ucdavis [dot] edu or by messaging me on LinkedIn.
 
-![Owens Group](files/owensgroup/owensgroup.png)
+![Owens Group](/files/owensgroup/owensgroup.png)
 
 In my free time, I enjoy photography, hiking, and rock climbing.

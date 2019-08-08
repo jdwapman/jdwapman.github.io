@@ -1,6 +1,6 @@
 ---
-title: "LLNL National Ignitional Facility"
-excerpt: "Description<br/><img src='/files/llnl_nif/img7.jpg' width='500'>"
+title: "Lawrence Livermore National Laboratory - National Ignitional Facility"
+excerpt: "Diagnostic tool to measure high-energy-density capacitor health<br/><img src='/files/llnl_nif/img7.jpg' width='500'>"
 collection: portfolio
 ---
 

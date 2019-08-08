@@ -1,6 +1,6 @@
 ---
 title: "Eclipse Rocketry Imaging"
-excerpt: "Identifying ground-level targets from a rocket<br/><img src='/images/500x300.png'>"
+excerpt: "Object Detection<br/><img src='/files/eclipse/detections.jpg' width='500'>"
 collection: portfolio
 ---
 
