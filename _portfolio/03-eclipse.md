@@ -4,6 +4,6 @@ excerpt: "Object Detection<br/><img src='/files/eclipse/detections.jpg' width='5
 collection: portfolio
 ---
 
-[Marketing Presentation](/files/eclipse/Eclipse_Imaging_Presentation.pdf)  
+[Project Presentation](/files/eclipse/Eclipse_Imaging_Presentation.pdf)  
 [Industrial Affiliates Conference Poster](/files/eclipse/ia2018.pdf)  
 [Source Code](https://github.com/jdwapman/Eclipse_Imaging)

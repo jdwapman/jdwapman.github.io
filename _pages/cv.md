@@ -16,8 +16,8 @@ PDF available [here](/files/cv/jonathan_wapman_cv.pdf)
 ## University of California, Davis
 * M.S. Electical Engineering
   * September 2018 - Present
-  * Advisor: [Dr. John Owens](https://www.ece.ucdavis.edu/~jowens/research.html)
   * Focus: Load-Balancing for GPU-Accelerated Graph Algorithms
+  * Advisor: [Dr. John Owens](https://www.ece.ucdavis.edu/~jowens/research.html)
   * GPA: 4.00/4.00
 * B.S. Electrical Engineering
   * September 2014 - March 2018
@@ -104,7 +104,7 @@ September 2018 - March 2019
 
 ---
 # Conferences
-* "Gunrock GPU Graph Analytics", UC Davis Indistrial Affiliates Conference, May 2019.  
+* "Gunrock GPU Graph Analytics", UC Davis Industrial Affiliates Conference, May 2019.  
 [poster](/files/owensgroup/ia2019.pdf)
 * “Chemical Plume Detection with Collaborative, Autonomous Sensor Networks,” 2018 Signal and Image Sciences Workshop at the Lawrence Livermore National Laboratory, 2018.  
 [poster](/files/llnl_ced/LLNL_CASIS_POSTER.pdf)
@@ -162,6 +162,6 @@ Bash, C, C++, CUDA, MATLAB, MIPS, Python, Verilog
 ## Frameworks
 OpenCV, Numba, NumPy, SciPy, Gunrock
 ## Tools
-Git, gdb/cuda-gdb, Jekyll, Linux, Mac OS, Windows
+Git, gdb/cuda-gdb, Googletest, Jekyll, LaTeX, Linux, Mac OS, Windows
 ## Programs
 Eagle, LabView, Simulink

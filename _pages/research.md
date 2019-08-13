@@ -9,8 +9,6 @@ author_profile: true
 [DARPA Press Release](https://www.darpa.mil/news-events/2018-07-24a)  
 [Nvidia Press Release](https://blogs.nvidia.com/blog/2018/07/24/darpa-research-post-moores-law/)  
 
-More information coming soon.
-
 ## Gunrock
 
 [Gunrock](https://github.com/gunrock/gunrock/tree/master/) is a GPU-accelerated [graph algorithm](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) library developed by my research group.
