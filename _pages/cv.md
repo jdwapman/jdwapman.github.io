@@ -42,16 +42,17 @@ January 2019 - Present
 ## NASA Jet Propulsion Laboratory
 Guidance & Control Intern  
 June 2018 - September 2018
-* Developed control algorithms and software drivers to enable automated position and attitude control of a planar air-bearing platform using used for CubeSat formation flying, pointing, and rendezvous experiments.
-* Planned and executed a series of laboratory tests to fully characterize the planar platform’s physical properties, software performance, and position-control capabilities. Extensive data analysis performed using MATLAB.
+* Developed control algorithms and software drivers to enable automated position and attitude control of a planar air-bearing platform used for CubeSat formation flying, pointing, and rendezvous experiments.
+* Formulated and executed a series of laboratory tests to fully characterize the planar platform’s physical properties, software performance, and position-control capabilities. Extensive data analysis performed using MATLAB.
+* Planned publication covering the platform’s design, performance capabilities, and applications to future CubeSat missions.
 * [Portfolio Link](/portfolio/01-JPL)
 
 
 ## Lawrence Livermore National Laboratory
 Computational Engineering Intern  
 March 2018 - June 2018
-* Modeled and simulated decentralized multi-agent robotic swarm algorithms for signal detection, information
-exchange, and motion planning applied to chemical plume identification and localization. 
+* Researched and simulated decentralized signal detection algorithms, information-exchange schemes, and motion strategies for chemical plume identification and localization using fully-autonomous robotic swarms.
+* Created a Python module to enable development and analysis of collaborative, autonomous swarm scenarios, which was used by LLNL scientists and for a 3D visualization collaboration with UCSD.
 * [Portfolio Link](/portfolio/02-llnl_swarm) 
 
 Engineering Intern  
