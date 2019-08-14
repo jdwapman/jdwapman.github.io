@@ -18,4 +18,4 @@ You can contact me at jdwapman [at] ucdavis [dot] edu or by messaging me on Link
 
 ![Owens Group](/files/owensgroup/owensgroup.png)
 
-In my free time, I enjoy photography, hiking, and rock climbing.
+In my free time, I enjoy [photography](https://www.flickr.com/photos/jwapmanphotography/albums/72157710296974147), hiking, and rock climbing.

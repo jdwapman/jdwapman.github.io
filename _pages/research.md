@@ -4,7 +4,11 @@ title: "Research"
 author_profile: true
 ---
 
+My research focuses on accelerating graph algorithms by taking advantage of the Graphics Processing Unit's (GPU) parallel architecture.
+
 ## Software-Define Hardware (DARPA)
+
+My current research project is a collaboration between UC Davis, Nvidia, and MIT as part of DARPA's Software-Defined  (SDH) program within the Electonics Resurgence Initiative (ERI). In short, the ERI seeks to continue advances in computer technology in the post-Moore's-Law era. The SDH program's goal is to design a reconfigurable computer architecture optimized for big-data fields such as graph analytics, machine learning, and linear algebra.
 
 [DARPA Press Release](https://www.darpa.mil/news-events/2018-07-24a)  
 [Nvidia Press Release](https://blogs.nvidia.com/blog/2018/07/24/darpa-research-post-moores-law/)  
