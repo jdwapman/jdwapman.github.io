@@ -12,11 +12,15 @@ redirect_from:
 PDF available [here](/files/cv/jonathan_wapman_cv.pdf)
 
 ---
+# Research Interests
+Parallel Computer Architectures, GPU Programming, Graph Analytics, Machine Learning, Autonomous Systems, Robotics, Control Systems
+
+---
 # Education
 ## University of California, Davis
 * M.S. Electical Engineering
   * September 2018 - Present
-  * Focus: Load-Balancing for GPU-Accelerated Graph Algorithms
+  * Focus: GPU-Accelerated Graph Algorithms
   * Advisor: [Dr. John Owens](https://www.ece.ucdavis.edu/~jowens/research.html)
   * GPA: 4.00/4.00
 * B.S. Electrical Engineering
@@ -51,7 +55,7 @@ June 2018 - September 2018
 ## Lawrence Livermore National Laboratory
 Computational Engineering Intern  
 March 2018 - June 2018
-* Researched and simulated decentralized signal detection algorithms, information-exchange schemes, and motion strategies for chemical plume identification and localization using fully-autonomous robotic swarms.
+* Researched and simulated decentralized signal detection algorithms, information-exchange schemes, and motion strategies for chemical plume identification and localization using UAV robotic swarms.
 * Created a Python module to enable development and analysis of collaborative, autonomous swarm scenarios, which was used by LLNL scientists and for a 3D visualization collaboration with UCSD.
 * [Portfolio Link](/portfolio/02-llnl_swarm) 
 
@@ -70,14 +74,14 @@ January 2017 - March 2018
 ## Silva Laboratory
 Undergraduate Research Assistant  
 September 2016 - June 2017  
-* Designed circuitry and programmed an Arduino for a digitally-controlled syringe with a team of three students. Used as a low-cost alternative for microfluidic educational and research projects.
+* Designed circuitry and programmed an Arduino for a digitally-controlled syringe with a team of three students. This syringe was used as a low-cost alternative for microfluidic educational and research projects.
 * [Portfolio Link](/portfolio/11-DigitallyControlledSyringe)
 
 
 ## Varian Medical Systems
 Engineering Intern  
 June 2016 - September 2016
-* Designed PCBs and software used to validate Multi-Leaved Collimator motors for radiation therapy machines.
+* Designed PCBs and software used to validate Multi-Leaf Collimator (MLC) motors for radiation therapy machines.
 * Programmed a GUI-based application to allow engineers to interface with MLC motor test equipment. Features include telemetry data visualizations, command sequence entry, and debugging tools.
 * [Portfolio Link](/portfolio/10-VarianMedicalSystems)
 
@@ -85,15 +89,18 @@ June 2016 - September 2016
 ## UC Davis C-STEM Center
 Research Assistant  
 January 2016 - June 2016
-* Developed code examples for Arduino robotic platforms such as line-following and maze-solving procedures.
 * Created teaching materials for middle-school students to learn basic coding and robotics concepts.
+* Developed code examples for Arduino robotic platforms such as line-following and maze-solving procedures.
 * [Portfolio Link](/portfolio/12-CSTEM)
 
 
 ## White Laboratory
 Undergraduate Research Assistant  
 December 2016  
-* Created scale models of LA buildings using foam blocks for use in wind tunnel simulations.
+* Created scale models of LA buildings with foam blocks for use in wind tunnel simulations.
+
+## Boy Scouts of America
+* Achieved the rank of Eagle Scout with a Bronze Palm
 
 ---
 # Teaching
@@ -101,19 +108,18 @@ December 2016
 Teaching Assistant  
 September 2018 - March 2019  
 * Assisted students and project teams with circuit design/layout, embedded device programming, project management, and quarterly written reports and presentations.
-* Acted as a project advisor to 4 senior design teams with 3-4 students each.
 
 ---
 # Conferences
-* "Gunrock GPU Graph Analytics", UC Davis Industrial Affiliates Conference, May 2019.  
+* "Gunrock GPU Graph Analytics," UC Davis Industrial Affiliates Conference, May 2019.  
 [poster](/files/owensgroup/ia2019.pdf)
 * “Chemical Plume Detection with Collaborative, Autonomous Sensor Networks,” 2018 Signal and Image Sciences Workshop at the Lawrence Livermore National Laboratory, 2018.  
 [poster](/files/llnl_ced/LLNL_CASIS_POSTER.pdf)
-* "Low-Cost Data Collection Systems for Fluorescence Lifetime Spectroscopy Imaging", UC Undergraduate Research Ambassador Showcase", February 2018.
-* "Rocket Imaging Payload: Identification of Ground-Based Targets using Contour Detection and Neural Networks with Bluetooth-Enabled Inertial Measurement Unit", UC Davis Industrial Affiliates Conference, May 2018.  
+* "Low-Cost Data Collection Systems for Fluorescence Lifetime Spectroscopy Imaging," UC Undergraduate Research Ambassador Showcase", February 2018.
+* "Rocket Imaging Payload: Identification of Ground-Based Targets using Contour Detection and Neural Networks with Bluetooth-Enabled Inertial Measurement Unit," UC Davis Industrial Affiliates Conference, May 2018.  
 [poster](/files/eclipse/ia2018.pdf)  
   * Award: Best Undergraduate Poster
-* Presentation “Multichannel solid state photodetection system for low-cost fluorescence lifetime spectroscopy (Conference Presentation),” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XVI, 2018. (contributed slides)
+* “Multichannel solid state photodetection system for low-cost fluorescence lifetime spectroscopy (Conference Presentation),” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XVI, 2018. (contributed slides)
 
 <!-- ---
 # Projects
@@ -158,11 +164,11 @@ September 2018 - March 2019
 
 ---
 # Skills
+## Languages
+English (Fluent), Conversational Spanish
 ## Programming Languages
 Bash, C, C++, CUDA, MATLAB, MIPS, Python, Verilog
-## Frameworks
-OpenCV, Numba, NumPy, SciPy, Gunrock
-## Tools
-Git, gdb/cuda-gdb, Googletest, Jekyll, LaTeX, Linux, Mac OS, Windows
+## Tools & Frameworks
+OpenCV, Numba, NumPy, SciPy, Gunrock, git, gdb/cuda-gdb, Googletest, Jekyll,
 ## Programs
-Eagle, LabView, Simulink
+Eagle, LabView, Simulink, LaTeX, Linux, Mac OS, Windows, Microsoft Office

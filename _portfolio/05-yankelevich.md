@@ -4,12 +4,14 @@ excerpt: "Low-Cost Data Capture Hardware and Software System<br/><img src='/file
 collection: portfolio
 ---
 
-From January 2017 to March 2018 I was an undergraduate research assistant working under [Professor Diego Yankelevich](https://faculty.engineering.ucdavis.edu/yankelevich/) and [Professor Laura Marcu](https://marculab.bme.ucdavis.edu/) on developing low-cost systems for fluorescence lifetime imaging.
+From January 2017 to March 2018 I was an undergraduate research assistant working under [Professor Diego Yankelevich](https://faculty.engineering.ucdavis.edu/yankelevich/) and [Professor Laura Marcu](https://marculab.bme.ucdavis.edu/) to develop low-cost systems for fluorescence lifetime imaging.
 
 ## Variable Attenuator
 
-As the distance between the laser, tissue sample, or detector changes, the strength of the recieved signal also changes. I designed an easy-to-use, low-cost variable attentuator system used to control the amplitude of the digitized signal. The attenuator system has two modes of operation: manual and automatic attenuation. In manual mode, the attenuation of each of the two supported channels can be directly controlled by the user. In automatic mode, the attenuation of each channel is controlled by a Matlab program running on the data capture computer. The system was implemented using an Arduino.
+More details coming soon...
 
+<!-- As the distance between the laser, tissue sample, or detector changes, the strength of the recieved signal also changes. I designed an easy-to-use, low-cost variable attentuator system used to control the amplitude of the digitized signal. The attenuator system has two modes of operation: manual and automatic attenuation. In manual mode, the attenuation of each of the two supported channels can be directly controlled by the user. In automatic mode, the attenuation of each channel is controlled by a Matlab program running on the data capture computer. The system was implemented using an Arduino.
+ -->
 [Source code](https://github.com/jdwapman/Attenuator)
 
 ## Digitizer Control Computer
