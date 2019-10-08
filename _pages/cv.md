@@ -142,6 +142,7 @@ September 2018 - March 2019
 ---
 # Courses
 ## Graduate
+* Computer Architecture (EEC 270)
 * Embedded Computing Systems (EEC 284)
 * Linear Systems (EEC 250)
 * Nonlinear Systems (EEC 251)
