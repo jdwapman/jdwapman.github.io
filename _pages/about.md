@@ -12,7 +12,7 @@ I am a Master's student at UC Davis studying Electrical and Computer Engineering
 
 <!-- My current research focuses on a streaming programming model for parallel graph algorithms and load-balancing strategies for a novel reconfigurable GPU architecture as part of DARPA's Software-Defined Hardware program. See press releases from [Nvidia](https://blogs.nvidia.com/blog/2018/07/24/darpa-research-post-moores-law/) and [DARPA](https://www.darpa.mil/news-events/2018-07-24a) for more information. -->
 
-I am a contributor to [Gunrock](https://github.com/gunrock/gunrock), an open-source, GPU-accelerated graph analytics library.
+I am a contributor to [Gunrock](https://github.com/gunrock/gunrock), an open-source, GPU-accelerated graph analytics library. My Github is available [here](https://github.com/jdwapman).
 
 You can contact me at jdwapman [at] ucdavis [dot] edu or by messaging me on LinkedIn.
 
