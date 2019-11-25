@@ -26,6 +26,8 @@ I implemented the [Hyperlink-Induced Topic Search](https://en.wikipedia.org/wiki
 
 More specifically, sites that point to other websites with high authority scores have a high hub score, and websites pointed to by other sites with high hub scores in turn have a high authority score. [(Code)](https://github.com/gunrock/gunrock/tree/master/gunrock/app/hits)
 
+I presented a [Poster](/files/owensgroup/ia2019.pdf) on Gunrock at the UC Davis 2018 Industrial Affiliates Conference.
+
 Other contributions include general Gunrock documentation, bug fixes, and tests.
 
 ## Past Projects
