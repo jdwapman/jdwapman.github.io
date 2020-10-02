@@ -154,6 +154,7 @@ September 2018 - March 2019
 * Computer Architecture (EEC 270)
 * Embedded Computing Systems (EEC 284)
 * Linear Systems (EEC 250)
+* Numerical Applied Linear Algebra (ECS 230)
 * Nonlinear Systems (EEC 251)
 * Optimal Control (MAE 298)
 * Reinforcement Learning (EEC 289A)
@@ -175,7 +176,7 @@ September 2018 - March 2019
 ---
 # Skills
 ## Languages
-English (Fluent), Conversational Spanish
+English (Fluent), Conversational Spanish, Beginning German
 ## Programming Languages
 Bash, C, C++, CUDA, MATLAB, MIPS, Python, Verilog
 ## Tools & Frameworks
