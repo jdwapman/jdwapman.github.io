@@ -18,7 +18,7 @@ Parallel Computer Architectures, GPU Programming, Graph Analytics, Machine Learn
 ---
 # Education
 ## University of California, Davis
-* M.S. Electical Engineering
+* Ph.D. Electical Engineering
   * September 2018 - Present
   * Focus: GPU-Accelerated Graph Algorithms
   * Advisor: [Dr. John Owens](https://www.ece.ucdavis.edu/~jowens/research.html)
@@ -36,12 +36,21 @@ Parallel Computer Architectures, GPU Programming, Graph Analytics, Machine Learn
 
 ---
 # Experience
+
+## NVIDIA Research
+Architecture Research Group Intern
+March 2020 - June 2020
+* Modeled the performance of load-balancing and data locality for graph analytics and sparse linear algebra using a cycle-accurate hardware simulator based on NVArchSim as part of the “Symphony” project in DARPA’s Software-Defined Hardware Program.
+* Contributed to the Symphony programming model emulator (“Symphonic CUDA”) and hardware simulator (“SymSim”) as part of a team of approximately 10 researchers and software engineers.
+
 ## Owens Research Group
 Graduate Student Researcher  
 January 2019 - Present  
-* Currently researching methods to map GPU graph algorithms and load-balancing methods to a dataflow programming model in collaboration with Nvidia as part of DARPA’s Software-Defined Hardware program.
-* Implemented the HITS graph ranking algorithm in the Gunrock open-source parallel graph analytics library.  
+* Researching methods to map GPU graph algorithms and load-balancing methods to reconfigurable GPU hardware and an explicit data orchestration programming model in collaboration with NVIDIA as part of DARPA’s Software-Defined Hardware program.
+* Exploring the tradeoffs between load balancing and locality for sparse linear algebra workloads.
+* Implemented the HITS graph ranking algorithm in CUDA and the Gunrock open-source parallel graph analytics library, now used as part of NVIDIA’s open-source RAPIDS CuGraph data analytics library.
 [(Link)](https://github.com/gunrock/gunrock/tree/master/gunrock/app/hits)
+* Co-Administrator of a Slurm compute cluster with 15+ users and 4x multi-GPU compute nodes.
 
 ## NASA Jet Propulsion Laboratory
 Guidance & Control Intern  
