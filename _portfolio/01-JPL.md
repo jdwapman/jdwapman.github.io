@@ -20,4 +20,4 @@ The first iteration of this platform was successfully used to test the MarCO Cub
 
 At the time I started my internship, the SSDT had recently procured a second iteration of the planar platform, which included an array of onboard thrusters that could be controlled by an onboard computer to controll the platform's motion. My internship task was to write a software library for this platform that users could access to control its motion, with functions such as PID position and velocity control, arbitrary force generation, thruster ON/OFF manipulation, and telemetry data capture. Additionally, I was tasked with characterizing the platform's mechanical properties (center of mass, moment of inertia, thruster force generation capabilities, etc).
 
-Although the platform is still under development, in the future it will be used to support further CubeSat launches and research.
+Although the platform is still under development, in the future it will be used to support further CubeSat launches and research. A technical report for this project is currently in peer review with the Journal of Spacecraft and Rockets.
