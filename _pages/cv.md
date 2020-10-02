@@ -57,7 +57,7 @@ Guidance & Control Intern
 June 2018 - September 2018
 * Developed control algorithms and software drivers to enable automated position and attitude control of a planar air-bearing platform used for CubeSat formation flying, pointing, and rendezvous experiments.
 * Formulated and executed a series of laboratory tests to fully characterize the planar platform’s physical properties, software performance, and position-control capabilities. Extensive data analysis performed using MATLAB.
-* Planned publication covering the platform’s design, performance capabilities, and applications to future CubeSat missions.
+* Publication in peer review with the Journal of Spacecraft and Rockets covering the platform’s design, performance capabilities, and applications to future CubeSat missions.
 * [Portfolio Link](/portfolio/01-JPL)
 
 
