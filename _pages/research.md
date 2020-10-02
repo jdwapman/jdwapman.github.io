@@ -4,11 +4,11 @@ title: "Research"
 author_profile: true
 ---
 
-My research focuses on accelerating graph algorithms using the Graphics Processing Unit's (GPU) parallel architecture.
+My research focuses on accelerating graph algorithms and sparse linear algebra kernels using the Graphics Processing Unit's (GPU) parallel architecture.
 
 ## Software-Define Hardware (DARPA)
 
-My current project is a collaboration between UC Davis, Nvidia, and several other universities as part of DARPA's Software-Defined Hardware (SDH) program within the Electonics Resurgence Initiative (ERI). In short, the ERI seeks to continue advances in computer technology in the post-Moore's-Law era. Within the ERI, the SDH program's goal is to explore reconfigurable computer architectures and programming models optimized for big-data fields such as graph analytics, machine learning, and linear algebra.  
+My current project is a collaboration between UC Davis, NVIDIA, and several other universities as part of DARPA's Software-Defined Hardware (SDH) program within the Electonics Resurgence Initiative (ERI). In short, the ERI seeks to continue advances in computer technology in the post-Moore's-Law era. Within the ERI, the SDH program's goal is to explore reconfigurable computer architectures and programming models optimized for big-data fields such as graph analytics, machine learning, and linear algebra.  
 
 More details about this project coming soon...
 
