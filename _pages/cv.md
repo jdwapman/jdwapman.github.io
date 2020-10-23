@@ -176,10 +176,10 @@ September 2018 - March 2019
 ---
 # Skills
 ## Languages
-English (Fluent), Conversational Spanish, Beginning German
+English (Fluent), Conversational Spanish, Conversational German
 ## Programming Languages
 Bash, C, C++, CUDA, MATLAB, MIPS, Python, Verilog
 ## Tools & Frameworks
-OpenCV, Numba, NumPy, SciPy, Gunrock, git, gdb/cuda-gdb, Googletest, Jekyll,
+OpenCV, Numba, NumPy, SciPy, Gunrock, git, gdb/cuda-gdb, Googletest, Jekyll
 ## Programs
-Eagle, LabView, Simulink, LaTeX, Linux, Mac OS, Windows, Microsoft Office
+Slurm, Eagle, LabView, Simulink, LaTeX, Linux, Mac OS, Windows, Microsoft Office
